@@ -2,6 +2,8 @@
 
 int main()
 {
+	//Luiz Fernando  MA0050016010
+	
 	int matriz[4][4], i=0, j=0, soma=0;
 	int a=0, b=0;
 	
