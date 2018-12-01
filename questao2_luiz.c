@@ -1,4 +1,4 @@
-0050016010
+//0050016010
 #include<stdio.h>
 #include<string.h>
 
